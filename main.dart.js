@@ -33754,7 +33754,7 @@ I:function(a){var u=this,t=null,s=S.dj(t,t,t,u.c,t,t,C.aK)
 return S.OX(R.LQ(M.h5(t,new T.eO(C.a8,t,t,L.dp(u.d,C.m,24),t),t,t,s,40,new V.ad(10,0,0,0),t,40),t,t,t,t,t,t,t,u.e,t),u.f)},
 gG:function(a){return this.c}}
 B.oW.prototype={
-I:function(a){return new T.aq(null,50,T.Mi(H.b([N.oX(new P.y(4280132082),C.nk,new B.DO(),"Twitter"),N.oX(new P.y(4278235120),C.nj,new B.DP(),"Skype"),N.oX(new P.y(4282664004),C.nm,new B.DQ(),"Wechat"),N.oX(new P.y(4278225100),C.nl,new B.DR(),"Telegram"),N.oX(C.oA,C.nn,new B.DS(),"Email")],[N.bf]),C.aU,C.hs,C.eE),null)}}
+I:function(a){return new T.aq(null,50,T.Mi(H.b([N.oX(new P.y(4280132082),C.nk,new B.DO(),"Twitter"),N.oX(new P.y(4278235120),C.nj,new B.DP(),"Skype"),N.oX(new P.y(4282664004),C.nm,new B.DQ(),"Github"),N.oX(new P.y(4278225100),C.nl,new B.DR(),"Telegram"),N.oX(C.oA,C.nn,new B.DS(),"Email")],[N.bf]),C.aU,C.hs,C.eE),null)}}
 B.DO.prototype={
 $0:function(){C.H.eh(window,"https://twitter.com/hayderuix","Twitter")},
 $S:0}
