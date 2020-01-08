@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Material+Icons);
+@import url(https://fonts.googleapis.com/css?family=Quicksand&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Lato&display=swap);
+
+body {
+  margin: 0 auto;
+  background-color: #f3f6fc;
+  padding: 2.5%;
+}
+
+* {
+  font-family: Roboto, Helvetica, Arial, Quicksand, Lato, sans-serif;
+}
