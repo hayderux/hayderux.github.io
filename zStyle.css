@@ -16,8 +16,7 @@
   margin-top: 20px;
   margin-bottom: 20px;
   line-height: 32px;
-  font-size: 20px;
-  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 26px;
   font-weight: 400;
 }
 .resumeButton {
@@ -56,5 +55,5 @@
   margin-left: 30px;
   font-weight: 400;
   font-size: 14px;
-  font-family: "IBM Plex Sans", sans-serif;
+  font-family: sans-serif;
 }
