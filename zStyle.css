@@ -17,6 +17,7 @@
   margin-bottom: 20px;
   line-height: 32px;
   font-size: 26px;
+  font-family: "Lato";
   font-weight: 400;
 }
 .resumeButton {
@@ -42,6 +43,10 @@
 }
 .link {
   margin-left: 20px;
+  font-size: 18px;
+  color: #333;
+}
+.link2 {
   font-size: 18px;
   color: #333;
 }
