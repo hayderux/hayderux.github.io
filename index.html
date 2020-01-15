@@ -4,16 +4,103 @@
     <title>Hayder Abbas</title>
     <meta charset="utf-8" />
     <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="zStyle.css" />
+    <script defer src="index.js"></script>
     <link rel="icon" type="image/png" href="favicon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <script defer src="main.dart.js"></script>
-    <script defer src="open.js"></script>
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-    />
   </head>
+
   <body>
-    <my-app></my-app>
+    <div class="AppBar"></div>
+    <div class="content">
+      <div class="Textblock">
+        Hello, I'm Hayder,
+        <br />
+        a Developer and Designer
+      </div>
+      <div class="list">
+        <ul>
+          <li class="ulx">
+            Experience in design, analysis, developement and testing user
+            interface
+            <br />
+            framework in various mobile applications.
+          </li>
+          <li class="ulx">
+            Develop, maintain and support application programs for Android, ios
+            and
+            <br />
+            windows.
+          </li>
+
+          <li class="ulx">
+            Identifying and troubleshooting UX problems in complex design
+            system.
+          </li>
+          <li class="ulx">
+            improving projects design taking into account modern design style,
+            <br />
+            typography, colors, consistent patterns, motion design and general
+            <br />
+            awareness of materials/textures.
+          </li>
+
+          <li class="ulx">
+            Designed and helped building multiple user friendly interfaces.
+          </li>
+        </ul>
+      </div>
+      <div>
+        <button class="resumeButton" onclick="myResume()">My Resume</button>
+      </div>
+      <div class="contactMe">
+        Skills
+      </div>
+      <div class="list">
+        <ul>
+          <li class="ulx">
+            Languages : Dart , C# , Java, Kotlin, JS, TypeScript, Go ,Swift,
+            Objc , Python
+          </li>
+          <li class="ulx">
+            Frameworks: Flutter, Angular , React , RN, UWP, Ionic
+          </li>
+          <li class="ulx">
+            Design Tools: Figma, Adobe XD
+          </li>
+        </ul>
+      </div>
+      <div class="contactMe">
+        Languages
+      </div>
+      <div class="list">
+        <ul>
+          <li class="ulx">English</li>
+          <li class="ulx">Mandarin</li>
+          <li class="ulx">Turkey</li>
+          <li class="ulx">Arabic</li>
+        </ul>
+      </div>
+      <div class="contactMe">
+        Want to say hi?
+      </div>
+      <div class="linkTile">
+        <span>Email</span>
+        <a href="mailto:hayderab@outlook.com" class="link"
+          >Click here to send me an email</a
+        >
+      </div>
+
+      <div class="linkTile">
+        <span>
+          Twitter
+        </span>
+        <a href="{{twitter}}" class="link">Visit</a>
+      </div>
+
+      <footer class="footer">
+        Copyright &copy; <span id="year"></span> - Hayder Abbas
+      </footer>
+    </div>
   </body>
 </html>

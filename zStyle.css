@@ -1,0 +1,61 @@
+.Textblock {
+  margin-top: 60px;
+  margin-left: 25px;
+  font-family: "Quicksand";
+  font-size: 46px;
+  color: #424242;
+  font-weight: bolder;
+  line-height: 54px;
+  text-transform: none;
+}
+.list {
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.ulx {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  line-height: 32px;
+  font-size: 20px;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 400;
+}
+.resumeButton {
+  margin-left: 28px;
+  margin-top: 40px;
+  height: 30px;
+  color: white;
+  background-color: #3898ec;
+  border-radius: 5px;
+  text-align: center;
+  border-color: transparent;
+  box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.04),
+    0px 2px 6px rgba(51, 51, 102, 0.08), 0px 16px 24px rgba(51, 51, 102, 0.1),
+    0px 24px 32px rgba(51, 51, 102, 0.14);
+}
+.contactMe {
+  margin-top: 60px;
+  margin-left: 28px;
+  font-family: "Quicksand";
+  font-size: 46px;
+  color: #424242;
+  font-weight: bolder;
+  text-transform: none;
+}
+.link {
+  margin-left: 20px;
+  font-size: 18px;
+  color: #333;
+}
+.linkTile {
+  margin-top: 30px;
+  margin-left: 40px;
+  font-size: 20px;
+}
+.footer {
+  margin-top: 30px;
+  margin-left: 30px;
+  font-weight: 400;
+  font-size: 14px;
+  font-family: "IBM Plex Sans", sans-serif;
+}

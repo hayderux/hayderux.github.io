@@ -3,13 +3,22 @@
 @import url(https://fonts.googleapis.com/css?family=Quicksand&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Lato&display=swap);
 
-body {
-  margin: 0 auto;
-  background-color: #f3f6fc;
-  padding-left: 1%;
-  padding-right: 3%;
-  padding-bottom: 2%;
-  padding-top: 1.5%;
+@media screen and (max-width: 600px) {
+  body {
+    padding-left: 2%;
+    padding-right: 2%;
+    background-color: #f3f6fc;
+  }
+}
+@media screen and (min-width: 900px) {
+  body {
+    margin: 0 auto;
+    background-color: #f3f6fc;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+  }
 }
 
 * {
